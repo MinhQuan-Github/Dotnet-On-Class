@@ -1,0 +1,15 @@
+/Users/mac/Desktop/programming/dotnet/onclass/dotnetEx1/bin/Debug/net6.0/dotnetEx1
+/Users/mac/Desktop/programming/dotnet/onclass/dotnetEx1/bin/Debug/net6.0/dotnetEx1.deps.json
+/Users/mac/Desktop/programming/dotnet/onclass/dotnetEx1/bin/Debug/net6.0/dotnetEx1.runtimeconfig.json
+/Users/mac/Desktop/programming/dotnet/onclass/dotnetEx1/bin/Debug/net6.0/dotnetEx1.dll
+/Users/mac/Desktop/programming/dotnet/onclass/dotnetEx1/bin/Debug/net6.0/ref/dotnetEx1.dll
+/Users/mac/Desktop/programming/dotnet/onclass/dotnetEx1/bin/Debug/net6.0/dotnetEx1.pdb
+/Users/mac/Desktop/programming/dotnet/onclass/dotnetEx1/obj/Debug/net6.0/dotnetEx1.csproj.AssemblyReference.cache
+/Users/mac/Desktop/programming/dotnet/onclass/dotnetEx1/obj/Debug/net6.0/dotnetEx1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mac/Desktop/programming/dotnet/onclass/dotnetEx1/obj/Debug/net6.0/dotnetEx1.AssemblyInfoInputs.cache
+/Users/mac/Desktop/programming/dotnet/onclass/dotnetEx1/obj/Debug/net6.0/dotnetEx1.AssemblyInfo.cs
+/Users/mac/Desktop/programming/dotnet/onclass/dotnetEx1/obj/Debug/net6.0/dotnetEx1.csproj.CoreCompileInputs.cache
+/Users/mac/Desktop/programming/dotnet/onclass/dotnetEx1/obj/Debug/net6.0/dotnetEx1.dll
+/Users/mac/Desktop/programming/dotnet/onclass/dotnetEx1/obj/Debug/net6.0/ref/dotnetEx1.dll
+/Users/mac/Desktop/programming/dotnet/onclass/dotnetEx1/obj/Debug/net6.0/dotnetEx1.pdb
+/Users/mac/Desktop/programming/dotnet/onclass/dotnetEx1/obj/Debug/net6.0/dotnetEx1.genruntimeconfig.cache
