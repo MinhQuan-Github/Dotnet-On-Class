@@ -18,6 +18,16 @@ namespace test2
         public static int TinhToan(int x, int y , MyDel d){
             return d(x,y);
         }
+        public delegate void MyDel1(int x , int y);
+        public static void add1(int x , int y){
+            Console.WriteLine(x+y);
+        }
+        public static void sub1(int x, int y) {
+            Console.WriteLine(x-y);
+        }
+        public static void TinhToan1(int x, int y , MyDel d){
+            d(x,y);
+        }
         static void Main(string[] args) {
             MyDel D = new MyDel(add);
             // xem d nhu la phuong thuc
@@ -31,6 +41,12 @@ namespace test2
             Console.WriteLine(z1);
             int z2 = TinhToan(4 , 2 , sub);
             Console.WriteLine(z2);
+
+            MyDel1 D1 = new MyDel1(add1);
+            D1 += new MyDel1(sub1);
+            D1 += new MyDel1(sub1);
+            D1 -= new MyDel1(sub1);
+            D1(3,4);
         }
     }
 }
