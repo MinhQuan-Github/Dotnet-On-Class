@@ -1,0 +1,15 @@
+/Users/mac/Desktop/programming/dotnet/onclass/dotnetEx4/obj/Debug/net6.0/dotnetEx4.csproj.AssemblyReference.cache
+/Users/mac/Desktop/programming/dotnet/onclass/dotnetEx4/obj/Debug/net6.0/dotnetEx4.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mac/Desktop/programming/dotnet/onclass/dotnetEx4/obj/Debug/net6.0/dotnetEx4.AssemblyInfoInputs.cache
+/Users/mac/Desktop/programming/dotnet/onclass/dotnetEx4/obj/Debug/net6.0/dotnetEx4.AssemblyInfo.cs
+/Users/mac/Desktop/programming/dotnet/onclass/dotnetEx4/obj/Debug/net6.0/dotnetEx4.csproj.CoreCompileInputs.cache
+/Users/mac/Desktop/programming/dotnet/onclass/dotnetEx4/bin/Debug/net6.0/dotnetEx4
+/Users/mac/Desktop/programming/dotnet/onclass/dotnetEx4/bin/Debug/net6.0/dotnetEx4.deps.json
+/Users/mac/Desktop/programming/dotnet/onclass/dotnetEx4/bin/Debug/net6.0/dotnetEx4.runtimeconfig.json
+/Users/mac/Desktop/programming/dotnet/onclass/dotnetEx4/bin/Debug/net6.0/dotnetEx4.dll
+/Users/mac/Desktop/programming/dotnet/onclass/dotnetEx4/bin/Debug/net6.0/ref/dotnetEx4.dll
+/Users/mac/Desktop/programming/dotnet/onclass/dotnetEx4/bin/Debug/net6.0/dotnetEx4.pdb
+/Users/mac/Desktop/programming/dotnet/onclass/dotnetEx4/obj/Debug/net6.0/dotnetEx4.dll
+/Users/mac/Desktop/programming/dotnet/onclass/dotnetEx4/obj/Debug/net6.0/ref/dotnetEx4.dll
+/Users/mac/Desktop/programming/dotnet/onclass/dotnetEx4/obj/Debug/net6.0/dotnetEx4.pdb
+/Users/mac/Desktop/programming/dotnet/onclass/dotnetEx4/obj/Debug/net6.0/dotnetEx4.genruntimeconfig.cache
