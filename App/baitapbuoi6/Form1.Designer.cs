@@ -65,6 +65,7 @@ namespace baitapbuoi6
             this.dataGridView1.SelectionMode = System.Windows.Forms.DataGridViewSelectionMode.CellSelect;
             this.dataGridView1.Size = new System.Drawing.Size(535, 150);
             this.dataGridView1.TabIndex = 20;
+            this.dataGridView1.CellContentClick += new System.Windows.Forms.DataGridViewCellEventHandler(this.dataGridView1_CellContentClick);
             // 
             // button17
             // 
@@ -93,7 +94,7 @@ namespace baitapbuoi6
             this.label2.AutoSize = true;
             this.label2.Location = new System.Drawing.Point(153, 295);
             this.label2.Name = "label2";
-            this.label2.Size = new System.Drawing.Size(56, 17);
+            this.label2.Size = new System.Drawing.Size(51, 16);
             this.label2.TabIndex = 17;
             this.label2.Text = "ten ban";
             // 
@@ -271,7 +272,7 @@ namespace baitapbuoi6
             this.label1.AutoSize = true;
             this.label1.Font = new System.Drawing.Font("Microsoft Sans Serif", 19.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label1.ForeColor = System.Drawing.SystemColors.Highlight;
-            this.label1.Location = new System.Drawing.Point(149, 32);
+            this.label1.Location = new System.Drawing.Point(206, 41);
             this.label1.Name = "label1";
             this.label1.Size = new System.Drawing.Size(251, 38);
             this.label1.TabIndex = 14;

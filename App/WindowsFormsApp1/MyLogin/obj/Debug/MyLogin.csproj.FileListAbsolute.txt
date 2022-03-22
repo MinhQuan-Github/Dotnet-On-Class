@@ -1,0 +1,8 @@
+E:\NetSchool\App\WindowsFormsApp1\MyLogin\bin\Debug\MyLogin.dll
+E:\NetSchool\App\WindowsFormsApp1\MyLogin\bin\Debug\MyLogin.pdb
+E:\NetSchool\App\WindowsFormsApp1\MyLogin\obj\Debug\MyLogin.csproj.AssemblyReference.cache
+E:\NetSchool\App\WindowsFormsApp1\MyLogin\obj\Debug\MyLogin.MyLogin.resources
+E:\NetSchool\App\WindowsFormsApp1\MyLogin\obj\Debug\MyLogin.csproj.GenerateResource.cache
+E:\NetSchool\App\WindowsFormsApp1\MyLogin\obj\Debug\MyLogin.csproj.CoreCompileInputs.cache
+E:\NetSchool\App\WindowsFormsApp1\MyLogin\obj\Debug\MyLogin.dll
+E:\NetSchool\App\WindowsFormsApp1\MyLogin\obj\Debug\MyLogin.pdb
