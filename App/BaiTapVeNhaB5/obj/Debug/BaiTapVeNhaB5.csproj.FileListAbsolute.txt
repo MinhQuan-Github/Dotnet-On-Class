@@ -1,0 +1,10 @@
+C:\Users\HP\source\repos\test1\BaiTapVeNhaB5\obj\Debug\BaiTapVeNhaB5.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\test1\BaiTapVeNhaB5\obj\Debug\BaiTapVeNhaB5.Form1.resources
+C:\Users\HP\source\repos\test1\BaiTapVeNhaB5\obj\Debug\BaiTapVeNhaB5.Properties.Resources.resources
+C:\Users\HP\source\repos\test1\BaiTapVeNhaB5\obj\Debug\BaiTapVeNhaB5.csproj.GenerateResource.cache
+C:\Users\HP\source\repos\test1\BaiTapVeNhaB5\obj\Debug\BaiTapVeNhaB5.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\test1\BaiTapVeNhaB5\bin\Debug\BaiTapVeNhaB5.exe.config
+C:\Users\HP\source\repos\test1\BaiTapVeNhaB5\bin\Debug\BaiTapVeNhaB5.exe
+C:\Users\HP\source\repos\test1\BaiTapVeNhaB5\bin\Debug\BaiTapVeNhaB5.pdb
+C:\Users\HP\source\repos\test1\BaiTapVeNhaB5\obj\Debug\BaiTapVeNhaB5.exe
+C:\Users\HP\source\repos\test1\BaiTapVeNhaB5\obj\Debug\BaiTapVeNhaB5.pdb

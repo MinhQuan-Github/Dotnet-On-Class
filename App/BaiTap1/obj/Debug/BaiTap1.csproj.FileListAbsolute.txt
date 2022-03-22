@@ -1,0 +1,11 @@
+E:\NetSchool\App\BaiTap1[ZaloPC_Folder]\bin\Debug\BaiTap1.exe.config
+E:\NetSchool\App\BaiTap1[ZaloPC_Folder]\bin\Debug\BaiTap1.exe
+E:\NetSchool\App\BaiTap1[ZaloPC_Folder]\bin\Debug\BaiTap1.pdb
+E:\NetSchool\App\BaiTap1[ZaloPC_Folder]\obj\Debug\BaiTap1.csproj.AssemblyReference.cache
+E:\NetSchool\App\BaiTap1[ZaloPC_Folder]\obj\Debug\BaiTap1.csproj.SuggestedBindingRedirects.cache
+E:\NetSchool\App\BaiTap1[ZaloPC_Folder]\obj\Debug\BaiTap1.Form1.resources
+E:\NetSchool\App\BaiTap1[ZaloPC_Folder]\obj\Debug\BaiTap1.Properties.Resources.resources
+E:\NetSchool\App\BaiTap1[ZaloPC_Folder]\obj\Debug\BaiTap1.csproj.GenerateResource.cache
+E:\NetSchool\App\BaiTap1[ZaloPC_Folder]\obj\Debug\BaiTap1.csproj.CoreCompileInputs.cache
+E:\NetSchool\App\BaiTap1[ZaloPC_Folder]\obj\Debug\BaiTap1.exe
+E:\NetSchool\App\BaiTap1[ZaloPC_Folder]\obj\Debug\BaiTap1.pdb

@@ -1,0 +1,10 @@
+C:\Users\HP\source\repos\test1\BT01\bin\Debug\BT01.exe.config
+C:\Users\HP\source\repos\test1\BT01\bin\Debug\BT01.exe
+C:\Users\HP\source\repos\test1\BT01\bin\Debug\BT01.pdb
+C:\Users\HP\source\repos\test1\BT01\obj\Debug\BT01.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\test1\BT01\obj\Debug\BT01.Form1.resources
+C:\Users\HP\source\repos\test1\BT01\obj\Debug\BT01.Properties.Resources.resources
+C:\Users\HP\source\repos\test1\BT01\obj\Debug\BT01.csproj.GenerateResource.cache
+C:\Users\HP\source\repos\test1\BT01\obj\Debug\BT01.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\test1\BT01\obj\Debug\BT01.exe
+C:\Users\HP\source\repos\test1\BT01\obj\Debug\BT01.pdb
