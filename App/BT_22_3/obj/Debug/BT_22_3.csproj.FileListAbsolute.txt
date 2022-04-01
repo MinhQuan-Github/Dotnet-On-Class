@@ -1,0 +1,12 @@
+E:\NetSchool\App\BT_22_3\bin\Debug\BT_22_3.exe.config
+E:\NetSchool\App\BT_22_3\bin\Debug\BT_22_3.exe
+E:\NetSchool\App\BT_22_3\bin\Debug\BT_22_3.pdb
+E:\NetSchool\App\BT_22_3\obj\Debug\BT_22_3.csproj.AssemblyReference.cache
+E:\NetSchool\App\BT_22_3\obj\Debug\BT_22_3.csproj.SuggestedBindingRedirects.cache
+E:\NetSchool\App\BT_22_3\obj\Debug\BT_22_3.Form1.resources
+E:\NetSchool\App\BT_22_3\obj\Debug\BT_22_3.Form2.resources
+E:\NetSchool\App\BT_22_3\obj\Debug\BT_22_3.Properties.Resources.resources
+E:\NetSchool\App\BT_22_3\obj\Debug\BT_22_3.csproj.GenerateResource.cache
+E:\NetSchool\App\BT_22_3\obj\Debug\BT_22_3.csproj.CoreCompileInputs.cache
+E:\NetSchool\App\BT_22_3\obj\Debug\BT_22_3.exe
+E:\NetSchool\App\BT_22_3\obj\Debug\BT_22_3.pdb
